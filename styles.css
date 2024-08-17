@@ -103,6 +103,8 @@ span{
 .home-image{
     border-radius: 50%;
 }
+
+
 .home-image img{
     position: relative;
     top: 3rem;
@@ -506,4 +508,7 @@ span{
 .testimonial-item ul{
     font-size: 1.5rem;
     font: sans-serif;
+}
+.intern{
+    font-size: 15px;
 }
